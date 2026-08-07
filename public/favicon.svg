@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- the half mark: a rule that stops halfway -->
+  <rect width="32" height="32" rx="6" fill="#1c1a17"/>
+  <rect x="6" y="14" width="10" height="4" rx="1" fill="#d4776b"/>
+  <rect x="16" y="14" width="10" height="4" rx="1" fill="none" stroke="#6e675d" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft))
+  .sort(
+    (a, b) =>
+      b.data.pubDate.valueOf() - a.data.pubDate.valueOf() ||
+      b.data.weight - a.data.weight,
+  );
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    timeZone: 'UTC',
+  });
+---
+<Base home>
+  <div class="masthead">
+    <h1>The <span class="half">Half</span><br />Nobody Quotes</h1>
+    <p class="tagline">Sentences the industry repeats, tested until the missing half falls out.</p>
+  </div>
+
+  <ul class="issues">
+    {posts.map((post) => (
+      <li>
+        <span class="kicker">{post.data.column}</span>
+        <h2><a href={`/posts/${post.id}/`}>{post.data.title}</a></h2>
+        <p class="desc">{post.data.description}</p>
+        <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
+      </li>
+    ))}
+  </ul>
+</Base>

@@ -1,0 +1,231 @@
+/* The Half Nobody Quotes — design tokens + base styles.
+   Typography-first editorial system: Literata (reading), Inter (labels/UI).
+   Light is the canonical palette; dark redefines tokens only. */
+
+:root {
+  --bg: #fbf9f5;
+  --ink: #1c1a17;
+  --muted: #6e675d;
+  --accent: #963a34;
+  --accent-soft: #b06a5e;
+  --rule: #e6e0d5;
+  --code-bg: #f1ede4;
+
+  --font-serif: 'Literata Variable', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter Variable', -apple-system, 'Helvetica Neue', sans-serif;
+
+  --measure: 42rem;
+  --step--1: 0.8125rem;
+  --step-0: 1.0625rem;
+  --step-1: 1.375rem;
+  --step-2: 1.75rem;
+  --step-3: 2.375rem;
+  --step-4: 3.25rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #191712;
+    --ink: #e9e4da;
+    --muted: #a39b8c;
+    --accent: #d4776b;
+    --accent-soft: #a95f52;
+    --rule: #2f2b24;
+    --code-bg: #221f19;
+  }
+}
+
+* { box-sizing: border-box; margin: 0; }
+
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--step-0);
+  line-height: 1.65;
+  font-optical-sizing: auto;
+  padding: 0 1.25rem;
+}
+
+.shell {
+  max-width: var(--measure);
+  margin: 0 auto;
+}
+
+a { color: inherit; }
+
+::selection { background: var(--accent); color: var(--bg); }
+
+/* ---------- site chrome ---------- */
+
+.site-head {
+  padding: 1.5rem 0 0;
+  font-family: var(--font-sans);
+  font-size: var(--step--1);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.site-head a {
+  text-decoration: none;
+  color: var(--muted);
+}
+.site-head a:hover { color: var(--accent); }
+
+.site-foot {
+  margin: 5rem 0 2.5rem;
+  padding-top: 1.25rem;
+  position: relative;
+  font-family: var(--font-sans);
+  font-size: var(--step--1);
+  color: var(--muted);
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+/* the half-rule: a line that deliberately stops halfway */
+.site-foot::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 50%;
+  border-top: 1px solid var(--rule);
+}
+.site-foot a { text-decoration: none; }
+.site-foot a:hover { color: var(--accent); }
+.site-foot .colophon { margin-left: auto; font-style: italic; font-family: var(--font-serif); }
+
+/* ---------- masthead (home) ---------- */
+
+.masthead { margin: 4.5rem 0 3.5rem; }
+.masthead h1 {
+  font-size: var(--step-4);
+  line-height: 1.05;
+  font-weight: 750;
+  letter-spacing: -0.015em;
+}
+.masthead h1 .half { color: var(--accent); }
+.masthead .tagline {
+  margin-top: 1.25rem;
+  font-style: italic;
+  font-size: var(--step-1);
+  line-height: 1.4;
+  color: var(--muted);
+  max-width: 32ch;
+}
+/* the half-rule under the masthead */
+.masthead::after {
+  content: '';
+  display: block;
+  margin-top: 2.25rem;
+  width: 50%;
+  border-top: 2px solid var(--accent);
+}
+
+/* ---------- issue list (home) ---------- */
+
+.issues { list-style: none; padding: 0; }
+.issues li { padding: 1.9rem 0; border-bottom: 1px solid var(--rule); }
+.issues li:last-child { border-bottom: none; }
+
+.kicker {
+  font-family: var(--font-sans);
+  font-size: var(--step--1);
+  font-weight: 550;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.issues h2 {
+  margin-top: 0.4rem;
+  font-size: var(--step-2);
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.issues h2 a { text-decoration: none; }
+.issues h2 a:hover { color: var(--accent); }
+.issues .desc { margin-top: 0.5rem; color: var(--muted); }
+.issues time {
+  display: block;
+  margin-top: 0.6rem;
+  font-family: var(--font-sans);
+  font-size: var(--step--1);
+  color: var(--muted);
+}
+
+/* ---------- article ---------- */
+
+.article-head { margin: 3.5rem 0 2.5rem; }
+.article-head h1 {
+  margin-top: 0.5rem;
+  font-size: var(--step-3);
+  line-height: 1.12;
+  font-weight: 750;
+  letter-spacing: -0.015em;
+}
+.article-head time {
+  display: block;
+  margin-top: 0.9rem;
+  font-family: var(--font-sans);
+  font-size: var(--step--1);
+  color: var(--muted);
+}
+
+.prose > * + * { margin-top: 1.15em; }
+.prose h2, .prose h3 {
+  margin-top: 2em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+}
+.prose h2 { font-size: var(--step-1); }
+.prose h3 { font-size: var(--step-0); }
+.prose a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+.prose blockquote {
+  padding-left: 1.1rem;
+  border-left: 2px solid var(--accent);
+  font-style: italic;
+  color: var(--muted);
+}
+.prose code {
+  font-size: 0.88em;
+  background: var(--code-bg);
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+}
+.prose pre {
+  background: var(--code-bg);
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+.prose pre code { background: none; padding: 0; }
+.prose hr {
+  border: none;
+  width: 50%;
+  border-top: 1px solid var(--rule);
+  margin: 2.5em 0;
+}
+.prose em:last-child { color: var(--muted); }
+
+/* colophon convention: final italic paragraph reads quieter */
+.prose > p:last-child > em { color: var(--muted); font-size: 0.94em; }
+
+@media (max-width: 40rem) {
+  :root {
+    --step-4: 2.5rem;
+    --step-3: 2rem;
+    --step-2: 1.45rem;
+  }
+  .masthead { margin: 3rem 0 2.5rem; }
+}

@@ -1,0 +1,47 @@
+---
+import '@fontsource-variable/literata';
+import '@fontsource-variable/literata/wght-italic.css';
+import '@fontsource-variable/inter';
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  home?: boolean;
+}
+const { title, description, home = false } = Astro.props;
+const siteName = 'The Half Nobody Quotes';
+const pageTitle = title ? `${title} · ${siteName}` : siteName;
+const desc = description ?? 'Sentences the industry repeats, tested until the missing half falls out.';
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={desc} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:type" content={home ? 'website' : 'article'} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={siteName} href="/rss.xml" />
+    <meta name="generator" content={Astro.generator} />
+  </head>
+  <body>
+    <div class="shell">
+      {!home && (
+        <header class="site-head">
+          <a href="/">← {siteName}</a>
+        </header>
+      )}
+      <main>
+        <slot />
+      </main>
+      <footer class="site-foot">
+        <a href="/about/">About</a>
+        <a href="/rss.xml">RSS</a>
+        <span class="colophon">Every piece shows its test.</span>
+      </footer>
+    </div>
+  </body>
+</html>
