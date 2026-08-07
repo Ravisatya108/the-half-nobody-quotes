@@ -8,7 +8,9 @@ sourceRun: "Design Grammar/The Telescope/Draws/DRAW-004-five-sizes-copywriting-s
 draft: false
 ---
 
-In 1904 a Canadian ex-Mountie named John E. Kennedy sent a note up from the bar on the ground floor to the offices of Lord & Thomas in Chicago. *I am in the saloon downstairs. I can tell you what advertising is. I know that you don't know.* Albert Lasker sent the word back down. What Kennedy told him was six words long in its useful part, and it has been quoted, engraved and misread ever since: **advertising is salesmanship in print.**
+In 1904 a Canadian ex-Mountie named John E. Kennedy sent a note up from the bar on the ground floor to the offices of Lord & Thomas in Chicago. *I am in the saloon downstairs. I can tell you what advertising is. I know that you don't know.* Albert Lasker sent the word back down.
+
+What Kennedy told him was six words long in its useful part, and it has been quoted, engraved and misread ever since: **advertising is salesmanship in print.**
 
 Everyone in the trade can recite it. Almost nobody can say what it tells you to do tomorrow morning.
 
@@ -44,9 +46,13 @@ Sort the canon by which loss it pays for and the pile stops being a pile.
 
 **You can't hold them, so every line has to buy the next one.** The headline exists because you can't walk up to somebody. The lead exists because the headline bought four seconds and no more. Subheads, bullets, the short opening paragraph, Joseph Sugarman's slippery slide — one job, repeated: purchase the next inch of attention, because unlike the salesman you were never given any on credit.
 
-**You can't be seen, so belief has to be manufactured out of marks on a page.** Specificity isn't a style preference — "cuts setup time by 41%" beats "dramatically faster setup" because a number is the cheapest available substitute for a face. Testimonials borrow other people's faces. Demonstrations show instead of asserting. And the guarantee is the purest case of the whole principle: a salesman stakes his reputation by standing there, and since you can't stand there, you stake money instead.
+**You can't be seen, so belief has to be manufactured out of marks on a page.** Specificity isn't a style preference — "cuts setup time by 41%" beats "dramatically faster setup" because a number is the cheapest available substitute for a face. Testimonials borrow other people's faces. Demonstrations show instead of asserting.
 
-**You get one turn, so answer everything, in the order they'd have asked it.** That's what long copy is for, and it's why "nobody reads long copy" was always a category error — nobody reads copy that stopped answering. The objection sequence is a transcript of a conversation you're not allowed to have. The P.S. is the "one more thing" you get on the way out. And when the turn is over and it failed, you can't adjust mid-pitch, so you adjust between pitches: the split test, the control, the whole measurement tradition Claude Hopkins built. Testing isn't science envy. It's the only form of adaptation available to a medium that can't change its mind while you're reading it.
+And the guarantee is the purest case of the whole principle: a salesman stakes his reputation by standing there, and since you can't stand there, you stake money instead.
+
+**You get one turn, so answer everything, in the order they'd have asked it.** That's what long copy is for, and it's why "nobody reads long copy" was always a category error — nobody reads copy that stopped answering. The objection sequence is a transcript of a conversation you're not allowed to have. The P.S. is the "one more thing" you get on the way out.
+
+And when the turn is over and it failed, you can't adjust mid-pitch, so you adjust between pitches: the split test, the control, the whole measurement tradition Claude Hopkins built. Testing isn't science envy. It's the only form of adaptation available to a medium that can't change its mind while you're reading it.
 
 Some of what a copywriter does isn't a repair at all. Making a good offer. Creating real urgency. Telling a story. Asking for the order. A salesman does every one of those, in the room, and does most of them better.
 
@@ -64,7 +70,9 @@ The research paragraph is the ear. The headline is the hold. The number, the tes
 
 One last thing, and it's the only evidence here that any of this describes the craft rather than being imposed on it.
 
-The most famous definition of salesmanship-in-print was closed by salesmanship in person. Kennedy didn't mail Lasker an essay. He sent a note, and the note did exactly one job: it bought thirty seconds of a busy man's attention. It didn't explain. It didn't prove. It didn't sell a theory of advertising — it couldn't, and it didn't try. Because the moment Lasker sent the word back down, the other three losses stopped applying. Kennedy could hear him, hold him, and be seen by him.
+The most famous definition of salesmanship-in-print was closed by salesmanship in person. Kennedy didn't mail Lasker an essay. He sent a note, and the note did exactly one job: it bought thirty seconds of a busy man's attention.
+
+It didn't explain. It didn't prove. It didn't sell a theory of advertising — it couldn't, and it didn't try. Because the moment Lasker sent the word back down, the other three losses stopped applying. Kennedy could hear him, hold him, and be seen by him.
 
 He wasn't working from a framework. He was working from the constraint.
 
