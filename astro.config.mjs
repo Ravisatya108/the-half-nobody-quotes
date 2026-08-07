@@ -2,8 +2,10 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// TODO Phase 1: set `site` to the real domain (or the GitHub Pages URL) before first deploy.
+// When a custom domain arrives: set `site` to it, remove `base`, and add a
+// public/CNAME file — the base-aware links below all collapse to '/' automatically.
 export default defineConfig({
-  site: 'https://thehalfnobodyquotes.com',
+  site: 'https://ravisatya108.github.io',
+  base: '/the-half-nobody-quotes',
   integrations: [sitemap()],
 });

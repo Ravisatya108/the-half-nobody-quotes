@@ -13,6 +13,7 @@ const { title, description, home = false } = Astro.props;
 const siteName = 'The Half Nobody Quotes';
 const pageTitle = title ? `${title} · ${siteName}` : siteName;
 const desc = description ?? 'Sentences the industry repeats, tested until the missing half falls out.';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 <html lang="en">
   <head>
@@ -23,23 +24,23 @@ const desc = description ?? 'Sentences the industry repeats, tested until the mi
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={desc} />
     <meta property="og:type" content={home ? 'website' : 'article'} />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-    <link rel="alternate" type="application/rss+xml" title={siteName} href="/rss.xml" />
+    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={siteName} href={`${base}/rss.xml`} />
     <meta name="generator" content={Astro.generator} />
   </head>
   <body>
     <div class="shell">
       {!home && (
         <header class="site-head">
-          <a href="/">← {siteName}</a>
+          <a href={`${base}/`}>← {siteName}</a>
         </header>
       )}
       <main>
         <slot />
       </main>
       <footer class="site-foot">
-        <a href="/about/">About</a>
-        <a href="/rss.xml">RSS</a>
+        <a href={`${base}/about/`}>About</a>
+        <a href={`${base}/rss.xml`}>RSS</a>
         <span class="colophon">Every piece shows its test.</span>
       </footer>
     </div>

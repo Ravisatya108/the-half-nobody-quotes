@@ -16,6 +16,8 @@ const fmt = (d: Date) =>
     day: 'numeric',
     timeZone: 'UTC',
   });
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 <Base home>
   <div class="masthead">
@@ -27,7 +29,7 @@ const fmt = (d: Date) =>
     {posts.map((post) => (
       <li>
         <span class="kicker">{post.data.column}</span>
-        <h2><a href={`/posts/${post.id}/`}>{post.data.title}</a></h2>
+        <h2><a href={`${base}/posts/${post.id}/`}>{post.data.title}</a></h2>
         <p class="desc">{post.data.description}</p>
         <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
       </li>

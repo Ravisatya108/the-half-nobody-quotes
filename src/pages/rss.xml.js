@@ -8,12 +8,12 @@ export async function GET(context) {
   return rss({
     title: 'The Half Nobody Quotes',
     description: 'Sentences the industry repeats, tested until the missing half falls out.',
-    site: context.site,
+    site: new URL(import.meta.env.BASE_URL, context.site).toString(),
     items: posts.map((post) => ({
       title: post.data.title,
       description: post.data.description,
       pubDate: post.data.pubDate,
-      link: `/posts/${post.id}/`,
+      link: `${import.meta.env.BASE_URL.replace(/\/$/, '')}/posts/${post.id}/`,
     })),
   });
 }
