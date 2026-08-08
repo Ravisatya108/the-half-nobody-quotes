@@ -1,9 +1,8 @@
 ---
 title: "The First Sale Is Handmade"
-description: "A funnel replays a sale that has already happened by hand; it cannot originate one. The asker's own price sheet already answered his hardest question."
+description: "A funnel replays a sale that has already happened by hand; it cannot originate one."
 pubDate: 2026-08-07
 column: "Questions Operators Actually Ask"
-sourceRun: "NHB Prism/Refractions/web-agency-ai-offer-factory-three-doors-2026-08-07.md"
 weight: 2.98
 draft: false
 ---

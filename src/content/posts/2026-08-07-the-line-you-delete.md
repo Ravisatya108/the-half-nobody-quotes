@@ -3,7 +3,6 @@ title: "The Line That Closes the Sale Is the One You Delete"
 description: "Your sales page, your lessons, your refund rate, and the mastermind pitch aimed at you run on one 2,400-year-old machine: the argument with a piece deliberately missing."
 pubDate: 2026-08-07
 column: "The Permanent Collection"
-sourceRun: "Enthymeme Cartography/Maps/course-creators-full-terrain-enthymeme-map.md"
 weight: 2.9
 draft: false
 ---

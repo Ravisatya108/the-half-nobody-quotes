@@ -4,7 +4,6 @@ description: "A school subject, a spellbook, and a movie star's aura are the sam
 pubDate: 2026-08-07
 weight: 1
 column: "The Permanent Collection"
-sourceRun: "Word Oracle/glamour-definition.md"
 draft: false
 ---
 

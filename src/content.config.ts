@@ -8,7 +8,6 @@ const posts = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     column: z.string(),
-    sourceRun: z.string().optional(),
     weight: z.number().default(0),
     draft: z.boolean().default(false),
   }),

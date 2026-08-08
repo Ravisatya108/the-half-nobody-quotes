@@ -3,7 +3,6 @@ title: "AI Killed the Lemons Market. Best News the Peach Ever Got."
 description: "The AI panic in marketing reads Akerlof upside down — a buyer who can finally inspect the pitch is a death sentence for the con and the first fair price the honest seller has ever been offered."
 pubDate: 2026-08-07
 column: "The Canon, Retested"
-sourceRun: "Peaches and Lemons/01 — The Lemons Reframe — AI Dissolved the Asymmetry.md"
 weight: 2.4
 draft: false
 ---

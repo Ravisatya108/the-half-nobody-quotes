@@ -1,9 +1,8 @@
 ---
-title: "Why Do People Buy Courses They Never Finish?"
+title: "They Finished at Checkout"
 description: "Most unfinished courses were finished at checkout — and no published study says finishing them would have helped."
 pubDate: 2026-08-07
 column: "Questions Operators Actually Ask"
-sourceRun: "The Symposium/Sittings/SITTING-001 — why-people-buy-courses-they-never-finish — 2026-07-11.md"
 weight: 2.2
 draft: false
 ---

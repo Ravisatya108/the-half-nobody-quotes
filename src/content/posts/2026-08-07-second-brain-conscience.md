@@ -3,7 +3,6 @@ title: "I Gave My Second Brain a Conscience. Then I Found It Asleep."
 description: "A detector that fails open is indistinguishable from a world with nothing wrong — mine read clean for weeks to prove it."
 pubDate: 2026-08-07
 column: "The Workshop"
-sourceRun: "Settings/CLOSING-COMMANDS.md"
 weight: 2.6
 draft: false
 ---

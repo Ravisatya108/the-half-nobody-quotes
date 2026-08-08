@@ -3,7 +3,6 @@ title: "You Can't Automate a Question You've Never Asked"
 description: "An offer no human being has seen doesn't need a funnel yet — it needs five conversations, and the order is the entire answer."
 pubDate: 2026-08-07
 column: "Questions Operators Actually Ask"
-sourceRun: "Ordering Principles/Assets/ai-agency-clockwork-multi-motion-prioritization-priority-stack.md"
 weight: 2.99
 draft: false
 ---
@@ -48,7 +47,9 @@ His entry product is quietly built for exactly that job — a folder that learns
 
 The order, then — because the whole answer is an order. This week: five conversations. Two workshop attendees, two agency clients, the retainer client. Show them the offer nobody has seen, and sell the $1,450 Discovery, not the build. Before the first call, write down the failure condition: twenty conversations, three weeks, zero paid Discoveries — then the problem is the offer, not the channel.
 
-The ads funnel earns its slot when three paid Discoveries have arrived from someone who wasn't a referral. The marketplace doesn't get built — with zero paying users, not building it is what keeps that option alive. Sites twenty-six and up stop; the compounding site keeps running. And the twenty-five get written up as the proof asset they are: "I built twenty-five automated businesses and two took money from strangers, unattended" is the most credible demonstration he owns, currently filed under experiments.
+The ads funnel earns its slot when three paid Discoveries have arrived from someone who wasn't a referral.
+
+The marketplace doesn't get built — with zero paying users, not building it is what keeps that option alive. Sites twenty-six and up stop; the compounding site keeps running. And the twenty-five get written up as the proof asset they are: "I built twenty-five automated businesses and two took money from strangers, unattended" is the most credible demonstration he owns, currently filed under experiments.
 
 One honest caveat, because there is a reading where all of this is wrong. He built an agency that runs without him, and the words he chose for his small factory win were "real and unattended." Unattended is carrying weight in that sentence. A $2,400 retainer re-attaches him to clients — discovery calls, scope, accountability.
 

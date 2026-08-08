@@ -3,7 +3,6 @@ title: "The Ceiling Is Where You Stopped Asking"
 description: "When 46 of every 100 buyers take the most expensive thing on the menu, the price hasn't found its ceiling — the seller has stopped looking for it."
 pubDate: 2026-08-07
 column: "Questions Operators Actually Ask"
-sourceRun: "Pricing Cartography/Maps/low-ticket-menu-ceiling-pricing-map-2026-08-07.md"
 weight: 2.95
 draft: false
 ---
@@ -54,7 +53,9 @@ A failed ad is the ad's failure. A failed price raise feels like a verdict on yo
 
 So — is anyone out there making money on low ticket with cold traffic and nothing behind it? I think that's the wrong question. Whether this model "exists" is not a category fact you can poll a community for. It is one inequality: a click has to earn more than it costs. Theirs is seventeen cents short, with an unread test result worth about seventeen cents sitting on the page.
 
-Which is what's missing from the sentence we started with. The half everyone quotes is true: selling more to customers you've already paid for is a real way to make a click earn more. The half nobody quotes is that the back end is what you build after the front end has finished asking what it's worth — and almost no front end has finished asking. When forty-six of every hundred buyers take the most expensive thing you sell, yours hasn't started.
+Which is what's missing from the sentence we started with. The half everyone quotes is true: selling more to customers you've already paid for is a real way to make a click earn more.
+
+The half nobody quotes is that the back end is what you build after the front end has finished asking what it's worth — and almost no front end has finished asking. When forty-six of every hundred buyers take the most expensive thing you sell, yours hasn't started.
 
 The ceiling on a price is not where buyers stop saying yes. It is where you stopped asking.
 

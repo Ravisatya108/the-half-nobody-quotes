@@ -1,9 +1,8 @@
 ---
 title: "The Method Can't Fail. That's Why It Stopped Selling."
-description: "Every product removes somebody's risk. A method course removes the seller's — and the market has spent fifteen years repricing that toward zero."
+description: "Every product removes somebody's risk — a method course removes the seller's, and the market has spent fifteen years repricing that toward zero."
 pubDate: 2026-08-07
 column: "Questions Operators Actually Ask"
-sourceRun: "The Removed-Risk Pass/Runs/technique-catalog-15yr-creator-mode1.md"
 weight: 2.97
 draft: false
 ---
@@ -34,9 +33,13 @@ Count what is actually on this map: nine vehicles, zero destinations. Not one op
 
 And the market has already returned its verdict on the hedge — twice, in two languages. Fifteen years of technique products at home: an all-time low. The same catalog logic in English: a free community of three hundred that barely speaks, and a paid community holding exactly one member. He reads this as a market problem, home versus international. But the experiment has run in both places with one thing held constant, and the constant is what failed.
 
-There is a reason the repricing is happening now. A method is information, and information about methods has fallen to its floor price: the internet gives away inductions and protocols, and AI models now explain, patiently and for free, roughly what a technique course teaches. When the risk of the outcome sits entirely with the buyer, the product competes with everything free — and loses. The one thing that was never free, the thing that cannot be downloaded, is a seller willing to take the risk back.
+There is a reason the repricing is happening now. A method is information, and information about methods has fallen to its floor price: the internet gives away inductions and protocols, and AI models now explain, patiently and for free, roughly what a technique course teaches.
 
-Which brings me to the asset he lists last, almost as an afterthought: more than a hundred recorded coaching and therapy sessions. Look at what those actually are. Nobody books a session to acquire a technique; a session gets booked because something in a life has become unbearable enough to hand to another person. The course library is fifteen years of drills. The session archive is his only record of people asking for holes — the one problem-shaped asset in the entire inventory, and it ranks below the app in his accounting.
+When the risk of the outcome sits entirely with the buyer, the product competes with everything free — and loses. The one thing that was never free, the thing that cannot be downloaded, is a seller willing to take the risk back.
+
+Which brings me to the asset he lists last, almost as an afterthought: more than a hundred recorded coaching and therapy sessions. Look at what those actually are. Nobody books a session to acquire a technique; a session gets booked because something in a life has become unbearable enough to hand to another person.
+
+The course library is fifteen years of drills. The session archive is his only record of people asking for holes — the one problem-shaped asset in the entire inventory, and it ranks below the app in his accounting.
 
 It also answers the question he actually ends on — if you were starting the international side today, what would you do first?
 

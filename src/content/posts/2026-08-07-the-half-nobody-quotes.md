@@ -4,13 +4,12 @@ description: "'In print' isn't where salesmanship happens — it's what salesman
 pubDate: 2026-08-07
 weight: 3
 column: "The Canon, Retested"
-sourceRun: "Design Grammar/The Telescope/Draws/DRAW-004-five-sizes-copywriting-salesmanship-in-print.md"
 draft: false
 ---
 
 In 1904 a Canadian ex-Mountie named John E. Kennedy sent a note up from the bar on the ground floor to the offices of Lord & Thomas in Chicago. *I am in the saloon downstairs. I can tell you what advertising is. I know that you don't know.* Albert Lasker sent the word back down.
 
-What Kennedy told him was six words long in its useful part, and it has been quoted, engraved and misread ever since: **advertising is salesmanship in print.**
+What Kennedy told him was five words long in its useful part, and it has been quoted, engraved and misread ever since: **advertising is salesmanship in print.**
 
 Everyone in the trade can recite it. Almost nobody can say what it tells you to do tomorrow morning.
 

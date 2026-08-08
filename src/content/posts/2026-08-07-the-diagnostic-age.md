@@ -1,9 +1,8 @@
 ---
-title: "The Diagnostic Age"
+title: "The Diagnostic Age Is 2,400 Years Old"
 description: "The urge to diagnose the inner life is at least 2,400 years old; what is actually 160 years old is a form that never finishes, is bought rather than joined, and hands you back a self instead of a state."
 pubDate: 2026-08-07
 column: "The Permanent Collection"
-sourceRun: "The Genealogy Reader/Genealogies/2026-08-07-the-diagnostic-age-genealogy.md"
 weight: 1.5
 draft: false
 ---

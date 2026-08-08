@@ -4,7 +4,6 @@ description: "When AI crashes the cost of making content, the money doesn't evap
 pubDate: 2026-08-07
 weight: 2
 column: "The AI Era, Read With Instruments"
-sourceRun: "Paradigm Miner/grossman-stiglitz-phantom-moat-plain-essay.md"
 draft: false
 ---
 

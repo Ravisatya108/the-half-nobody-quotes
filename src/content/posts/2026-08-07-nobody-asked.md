@@ -3,7 +3,6 @@ title: "Nobody Asked"
 description: "Marketing works the involuntary side of change work, and the top of the funnel is nothing but the machine that carries somebody over to the voluntary side."
 pubDate: 2026-08-07
 column: "The Canon, Retested"
-sourceRun: "Design Grammar/The Telescope/Draws/DRAW-005-five-sizes-marketing-is-change-work.md"
 weight: 2.8
 draft: false
 ---
