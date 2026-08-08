@@ -7,7 +7,7 @@ weight: 2.98
 draft: false
 ---
 
-This week's question comes from the owner of a web agency in Malaysia. Team of five, "runs about 100% without me," fixing and improving online stores for e-commerce brands. He hands over his own diagnosis in the second line: "My strength is systems and tech. My weakness is marketing."
+This week's question comes from the owner of a web agency in Southeast Asia. A small team, "runs about 100% without me," fixing and improving online stores for e-commerce brands. He hands over his own diagnosis in the second line: "My strength is systems and tech. My weakness is marketing."
 
 Then he does the most systems-and-tech thing a person can do. He spends a year building what he calls the offer factory — AI that launches sites and runs their marketing: automated SEO, lead magnets, a digital product, paid ads. Twenty-five sites launched. Two produced results; one is compounding on SEO week over week. His own verdict: "Small, but real and unattended."
 
@@ -15,7 +15,7 @@ Then he does the most systems-and-tech thing a person can do. He spends a year b
 
 Workshops: two paid ones run, zero backend sales. His own first cause: there was no backend offer to sell. He has since designed one — $245 deposit, a $1,000–2,900 build, $370–610 a month — and adds that it has "never been put in front of anyone."
 
-Services: one deal, just won. A consumer group in Kuala Lumpur — four e-commerce brands, five markets, half a million customers. "Referred in warm." A $1,450 paid discovery, credited to the build, refundable, they keep the map. A first build at $6,100–8,500, then a retainer offered at $1,540 or $2,400 a month. "They're going for the $2,400."
+Services: one deal, just won. A consumer group — several e-commerce brands across multiple markets, hundreds of thousands of customers. "Referred in warm." A $1,450 paid discovery, credited to the build, refundable, they keep the map. A first build at $6,100–8,500, then a retainer offered at $1,540 or $2,400 a month. "They're going for the $2,400."
 
 Products: zero.
 
@@ -43,7 +43,7 @@ So, answering him straight: yes, a low-ticket funnel can genuinely feed a backen
 
 The pushback he asked for is not about the thesis. One audience, several doors — fine. It is about order. Before a dollar of ad spend: make the backend offer by hand, out loud, at the next workshop, and close it or lose it in conversation. Run the ladder manually once, end to end.
 
-Whatever survives — the line that landed, the objection that kept coming, the price that held — is the script the funnel gets to record. And ask the Kuala Lumpur client for the next introduction, because the offer that arrives warm is closing at one hundred percent.
+Whatever survives — the line that landed, the objection that kept coming, the price that held — is the script the funnel gets to record. And ask that first client for the next introduction, because the offer that arrives warm is closing at one hundred percent.
 
 His agency runs without him. His factory runs without him. That was the point of both, and it leaves him free for the one job with no automation yet.
 

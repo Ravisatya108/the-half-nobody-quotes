@@ -39,7 +39,7 @@ The raise only loses money if more than two-thirds flee downward — or if buyer
 
 Here is the part that made me write this up: the operator knows all of it. Their post computes the same numbers, names the price change the closest thing to low-hanging fruit they've found — and then says they haven't done it.
 
-What they have done instead, in the same stretch: seventy new ad variants in two weeks. A second landing page. A countdown timer, installed and removed. A seasonal media plan. An entire second brand, launched in a different niche. Every item on that list works on the ninety-seven cents — the cost of a click, set by an auction in which they are one bidder among thousands.
+What they have done instead, in the same stretch: dozens of new ad variants in a matter of weeks. A second landing page. A countdown timer, installed and removed. A seasonal media plan. An entire second brand, launched in a different niche. Every item on that list works on the ninety-seven cents — the cost of a click, set by an auction in which they are one bidder among thousands.
 
 The one thing left undone works on the eighty cents. The number they alone set.
 

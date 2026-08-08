@@ -13,7 +13,7 @@ So he answered his weakness with his strength. Last year he asked, "can AI autom
 
 What it returned: two of the twenty-five have taken money from strangers, and one is compounding on search week over week. His own verdict is honest and exact: "Small, but real and unattended."
 
-Around the factory he now runs three doors into the same audience. Workshops: two paid ones launched, zero backend sales. Services: one client — a consumer group with four e-commerce brands across five markets — who paid $1,450 for a Discovery, is heading into a first build quoted at $6,100–8,500, and is taking a $2,400-a-month retainer. "Referred in warm." Products — he has packaged the factory itself as hire-an-AI-worker software: revenue zero.
+Around the factory he now runs three doors into the same audience. Workshops: two paid ones launched, zero backend sales. Services: one client — a consumer group running several e-commerce brands across multiple markets — who paid $1,450 for a Discovery, is heading into a first build quoted at $6,100–8,500, and is taking a $2,400-a-month retainer. "Referred in warm." Products — he has packaged the factory itself as hire-an-AI-worker software: revenue zero.
 
 His plan from here: a backend offer of custom builds and retainers, one entry product, a marketplace for add-ons, workshops rebuilt as lead gen, and "Launch paid ads funnel asap." His two questions: am I doing the right thing? And can a low-ticket funnel genuinely feed a $6,000-plus build and a $2,400-a-month retainer — or are those different buyers?
 

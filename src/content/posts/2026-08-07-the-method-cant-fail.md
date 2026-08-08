@@ -7,7 +7,7 @@ weight: 2.97
 draft: false
 ---
 
-This week I read a long question from a creator fifteen years into the personal-development business — psychology, coaching, NLP, hypnosis. The inventory he lists is enormous: around three hundred courses and programs in his home market's language, ten international summits, fifteen courses in English, two communities, and an app that generates personalized meditations. Sales are at an all-time low. He is financing the business out of his own pocket.
+This week I read a long question from a creator fifteen years into the personal-development business — psychology, coaching, NLP, hypnosis. The inventory he lists is enormous: hundreds of courses and programs in his home market's language, a string of international summits, a second catalog in English, two communities, and an app that generates personalized meditations. Sales are at an all-time low. He is financing the business out of his own pocket.
 
 His question: which of nine directions to focus on next. A high-ticket program in English. Low-ticket products feeding a high-ticket offer. The community as the destination. Consumers. Professionals. The app, aimed at consumers, professionals, or both; the app as the funnel for everything else. A book. And the ninth option, in full: "Or take a completely different approach?"
 
@@ -31,7 +31,7 @@ Two options do contain the word "problem" — "problem-specific products," "help
 
 Count what is actually on this map: nine vehicles, zero destinations. Not one option names a problem, a person, or a promise. Every road at this crossroads can be walked to its end without ever making a claim that could fail. The crossroads is not a decision he is struggling to make. It is the hedge again, redrawn as a map.
 
-And the market has already returned its verdict on the hedge — twice, in two languages. Fifteen years of technique products at home: an all-time low. The same catalog logic in English: a free community of three hundred that barely speaks, and a paid community holding exactly one member. He reads this as a market problem, home versus international. But the experiment has run in both places with one thing held constant, and the constant is what failed.
+And the market has already returned its verdict on the hedge — twice, in two languages. Fifteen years of technique products at home: an all-time low. The same catalog logic in English: a free community of a few hundred that barely speaks, and a paid community holding a single member. He reads this as a market problem, home versus international. But the experiment has run in both places with one thing held constant, and the constant is what failed.
 
 There is a reason the repricing is happening now. A method is information, and information about methods has fallen to its floor price: the internet gives away inductions and protocols, and AI models now explain, patiently and for free, roughly what a technique course teaches.
 
