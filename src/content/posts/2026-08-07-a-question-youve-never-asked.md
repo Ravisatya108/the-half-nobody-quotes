@@ -19,7 +19,7 @@ His plan from here: a backend offer of custom builds and retainers, one entry pr
 
 The industry has a ready answer, and it is already inside his plan: build the funnel. The value ladder. Low ticket feeds high ticket; buyers ascend. On that reading his roadmap is textbook, and most replies in his thread will help him optimize it.
 
-But one detail in his post decides the case, and it sits where details go to be skimmed. Explaining why two paid rooms bought nothing afterward, his own first cause: "there was no backend offer to sell." So he designed one — $245 deposit, $1,000–2,900 build, $370–610 a month — "and have never put it in front of anyone yet."
+But one detail in his post decides the case, and it sits where details go to be skimmed. Explaining why two paid rooms bought nothing afterward, his own first cause: there was no backend offer to sell. So he designed one — $245 deposit, $1,000–2,900 build, $370–610 a month — an offer that has still "never been put in front of anyone."
 
 Hold that sentence up next to the roadmap. He owns a backend offer that no human being has ever seen. The next step in his plan is to buy traffic to it.
 
@@ -27,7 +27,7 @@ Sort the revenue in this story by where it actually came from. The services door
 
 The expensive thing has sold exactly once, and it sold through trust that existed before any offer was made. The automated asks, running around the clock, have produced two payments. That is not evidence that automation failed. It is his own data on which input his business actually converts: trust, arriving warm.
 
-He reads that data as a gap — "Every retainer I have came from a warm referral," meaning: I haven't built acquisition yet. There is a second reading. The only channel that has ever produced a high-ticket client for him costs nothing, and he has never once worked it deliberately.
+He reads that data as a gap — every retainer he has came from a warm referral, meaning: he hasn't built acquisition yet. There is a second reading. The only channel that has ever produced a high-ticket client for him costs nothing, and he has never once worked it deliberately.
 
 No offer shown to his agency's client book. No ask into the two rooms that already paid him. No request into the new client's network. The two most proven assets he owns — the client book and the referral channel — appear nowhere in his own five-point plan.
 
@@ -37,7 +37,7 @@ A paid-ads funnel is buying a machine. Twenty conversations with people who alre
 
 So — the second question, the one he asked most carefully. Can a low-ticket funnel feed a $6,100 build and a $2,400 retainer? His audience thesis is genuinely right: same room, different doors. His retainer client came in for AI operations and now wants his web services too — the doors connect.
 
-But his own workshop post-mortem already answered the funnel question: "they were still learning to prompt. I sold them an autonomous workforce." Not two audiences. One audience at two very different moments — and money only moves at the second one. A cheap product recruits people at the first moment, in volume, and hands them to a sales process built for the second.
+But his own workshop post-mortem already answered the funnel question: the rooms were still learning the basics of AI, and he was selling them an AI workforce. Not two audiences. One audience at two very different moments — and money only moves at the second one. A cheap product recruits people at the first moment, in volume, and hands them to a sales process built for the second.
 
 The funnel also does something specific to his price ladder. Today the ladder starts at that $1,450 Discovery — paid, credited to the build, refundable, they keep the map. From $1,450 to $6,100 is about a four-times step. Buyers take four-times steps. Put a $49 product at the front and the step to the build becomes a hundred and twenty-four times. A low-ticket front end wouldn't add a rung to his ladder. It would saw off the one that works.
 

@@ -15,7 +15,7 @@ But before any theory got the floor, the question itself was caught carrying con
 
 The first theory says the purchase already did the job. Wanting to change builds pressure for months, and checkout is where the pressure discharges — the moment payment clears, the urgency that drove the sale is spent. "Crossing is not acting." The ad that sold the course opened a question in the buyer, and paying closed it; relief arrived at the receipt, not at module twelve.
 
-The harshest version of this borrows Nietzsche — "He who despises himself still esteems the despiser within" — and reads the buyer as "purchasing evidence against his own self-contempt." On that reading, "Abandonment isn't failure; it's the point — the receipt proves he's the kind who tries."
+The harshest version of this borrows Nietzsche's line from *Beyond Good and Evil* — "Whoever despises himself still respects himself as one who despises" — and reads the buyer as "purchasing evidence against his own self-contempt." On that reading, "Abandonment isn't failure; it's the point — the receipt proves he's the kind who tries."
 
 The unopened course isn't the product failing. It's the product working.
 
@@ -27,7 +27,9 @@ Build the mechanism instead of the library, this side says, and the pattern chan
 
 Push each side to its foundation and you find where they genuinely disagree. The discharge side's deepest card is that no system transmits change at all.
 
-Kierkegaard's line about the thinker who "builds an enormous system... and does not personally live in this palace but in a shed alongside it" was aimed at exactly this: every course is a palace, every buyer sleeps in the shed beside it, and a redesigned course — with its staged first actions and identity-safe on-ramps — is just a better palace, bought for the same reason, slept beside the same way.
+Kierkegaard's line in *The Sickness unto Death* about the thinker who "erects an immense building, a system" and then "does not live in this immense high-vaulted palace, but in a barn alongside of it" was aimed at exactly this.
+
+Every course is a palace, every buyer sleeps in the barn beside it, and a redesigned course — with its staged first actions and identity-safe on-ramps — is just a better palace, bought for the same reason, slept beside the same way.
 
 The mechanism side answers with Aristotle: practice is the only thing that transmits anything, structure is how you get a person to practice, and without it nothing passes from teacher to student, ever.
 

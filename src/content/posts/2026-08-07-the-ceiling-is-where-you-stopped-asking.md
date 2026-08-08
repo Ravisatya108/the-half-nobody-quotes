@@ -17,9 +17,9 @@ I want to test that sentence against one detail in their write-up. The detail mo
 
 The page sells one product at three prices: a basic version at $27.99, a middle at $49.99, and a get-everything bundle at $59.99. Of every hundred buyers, forty-five take the cheapest. Nine take the middle. Forty-six take the most expensive.
 
-Sit with the last number. A three-price menu is not just a sales device; it is a running experiment. Every visitor is silently asked: how much is this worth to you? Around 3,500 buyers have answered so far, and nearly half of them answered: the most you will let me pay.
+Sit with the last number. A three-price menu is not just a sales device; it is a running experiment. Every visitor is silently asked: how much is this worth to you? More than two thousand buyers have answered so far, and nearly half of them answered: the most you will let me pay.
 
-There is a well-worked body of research on three-tier menus, and it says the top option's job is mostly architectural — it exists so the middle looks sensible. The canonical case is the $429 bread machine whose main effect was to double sales of the $279 model beside it.
+There is a well-worked body of research on three-tier menus, and it says the top option's job is mostly architectural — it exists so the middle looks sensible. The canonical case is the $429 bread machine whose main effect was to double sales of the $275 model beside it.
 
 In a menu built that way, the top collects maybe five to fifteen percent of buyers. Above roughly a quarter, the tier-design literature stops calling it a top at all: it has become the target, priced like a middle.
 
@@ -49,7 +49,7 @@ The strongest evidence in the operator's own history points the same way. Their 
 
 I think I know why. The auction side always offers more work — another creative batch, another page, another window — and work feels like progress. The price side offers no work at all. It offers one decision, and the decision carries a specific fear: a price is a claim about what your thing is worth, and raising it invites every stranger on the page to disagree.
 
-A failed ad is the ad's failure. A failed price raise feels like a verdict on you. So the price stays where the operator's nerve set it, instead of where three and a half thousand buyers have been pointing.
+A failed ad is the ad's failure. A failed price raise feels like a verdict on you. So the price stays where the operator's nerve set it, instead of where thousands of buyers have been pointing.
 
 So — is anyone out there making money on low ticket with cold traffic and nothing behind it? I think that's the wrong question. Whether this model "exists" is not a category fact you can poll a community for. It is one inequality: a click has to earn more than it costs. Theirs is seventeen cents short, with an unread test result worth about seventeen cents sitting on the page.
 

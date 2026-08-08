@@ -13,19 +13,19 @@ Then he does the most systems-and-tech thing a person can do. He spends a year b
 
 "Then I saw a product in what I'd built." Businesses hiring AI workers that do jobs on their own machines, with approval gates on anything live. An entry product that learns a business in five short interviews, then does the work. He opens three doors to sell it, and reports the receipts on each with unusual honesty.
 
-Workshops: two paid ones run, zero backend sales. His own first cause: there was no backend offer to sell. He has since designed one — $245 deposit, a $1,000–2,900 build, $370–610 a month — and adds that he has "never put it in front of anyone yet."
+Workshops: two paid ones run, zero backend sales. His own first cause: there was no backend offer to sell. He has since designed one — $245 deposit, a $1,000–2,900 build, $370–610 a month — and adds that it has "never been put in front of anyone."
 
 Services: one deal, just won. A consumer group in Kuala Lumpur — four e-commerce brands, five markets, half a million customers. "Referred in warm." A $1,450 paid discovery, credited to the build, refundable, they keep the map. A first build at $6,100–8,500, then a retainer offered at $1,540 or $2,400 a month. "They're going for the $2,400."
 
 Products: zero.
 
-The plan he asks the room to push back on: put the backend offer in the room at the next workshops, then "Launch paid ads funnel asap." And the question the whole post narrows to: "Can a low-ticket online funnel genuinely feed a $6k+ build plus a $2.4k/mo retainer?" Or are those different buyers? One more sentence follows, almost in passing: "Every retainer I have came from a warm referral."
+The plan he asks the room to push back on: put the backend offer in the room at the next workshops, then "Launch paid ads funnel asap." And the question the whole post narrows to: can a low-ticket online funnel genuinely feed a $6k+ build and a $2.4k/mo retainer — or are those different buyers? One more fact follows, almost in passing: every retainer he has came from a warm referral.
 
 The industry has a ready answer, and it is the sentence every funnel thread repeats: the low-ticket front end qualifies buyers for the high-ticket back end. Build the ladder, run the ads, let the machine sell. Every reply he gets will contain some version of it.
 
 Here is the half nobody quotes: a funnel qualifies buyers for a sale you already know how to make. A funnel is a multiplier. It replays, at volume, a sale that has already happened by hand — the pitch that worked, the objections that surfaced, the price that held. Ask it to multiply a sale that has never happened once, and it will do exactly that. Anything times zero.
 
-So run the test on his numbers. Count the backend attempts in his story — not sales, attempts. The backend offer has been presented zero times: "never put it in front of anyone yet." Which means "zero backend sales" is not a conversion rate. It is a blank field.
+So run the test on his numbers. Count the backend attempts in his story — not sales, attempts. The backend offer has been presented zero times: "never been put in front of anyone." Which means "zero backend sales" is not a conversion rate. It is a blank field.
 
 Two workshops taught him real things about his audience, but on the question he is actually asking — will these buyers ascend — the experiment has not run. He is asking whether the recording will sell before the performance has been given.
 

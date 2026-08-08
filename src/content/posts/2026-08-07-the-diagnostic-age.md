@@ -51,7 +51,7 @@ The Buddha's teaching is "compared to a raft — for the purpose of crossing ove
 
 Sextus, in his *Outlines*, built arguments designed to eliminate themselves, "like purgatives that drain themselves away with the humors," tranquility arriving unsought, "as a shadow follows a body." At the modern end Ricoeur, in *The Symbolism of Evil*, reached the same structure: "Beyond the desert of criticism, we wish to be called again" — the return to directness comes after criticism, never instead of it.
 
-And every one of these traditions put the disease at the same address. An early Buddhist discourse traces the chain from contact to feeling to perception to thinking to proliferation, and then its grammar famously reverses: "what one objectifies… due to that, perceptions-and-categories of proliferation assail him." You begin as the author of your categories and end as their target.
+And every one of these traditions put the disease at the same address. An early Buddhist discourse, the Madhupiṇḍika Sutta, traces the chain from contact to feeling to perception to thinking to proliferation, and then its grammar famously reverses — "Based on what a person objectifies," runs Thanissaro Bhikkhu's translation, "the perceptions & categories of objectification assail him/her." You begin as the author of your categories and end as their target.
 
 That is Hacking's looping effect, diagnosed some 2,400 years early. The disease was never diagnosis. It is the moment the tool starts using the user.
 
